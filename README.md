@@ -2,11 +2,6 @@
 
 ### I am a beginner programmer.
 
-### Social Media:
-[<img width="25px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fyoutube-512.png&f=1&nofb=1" />](https://www.youtube.com/channel/UCdixaS1DwzC38u7RuLFbtuA)
-[<img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/brodobroit) 
-[<img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/B3AVERR1)
-
 
 ### My Skills:
 
@@ -29,3 +24,9 @@
 
 
 My hobby is Linux and everything connected with it.
+
+### Communication with me:
+[<img width="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fyoutube-512.png&f=1&nofb=1" />](https://www.youtube.com/channel/UCdixaS1DwzC38u7RuLFbtuA)
+[<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/brodobroit) 
+[<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/B3AVERR1)
+
