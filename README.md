@@ -25,7 +25,7 @@ My hobby is Linux and everything connected with it.
 
 ### Communication with me:
 [<img width="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fyoutube-512.png&f=1&nofb=1" />](https://www.youtube.com/channel/UCdixaS1DwzC38u7RuLFbtuA)
-[<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/brodobroit) 
+[<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/itdobro) 
 [<img width="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhcrnetwork.com%2Fwp-content%2Fuploads%2F2012%2F11%2Ftransparent-Linkedin-logo-icon.png&f=1&nofb=1" />](https://www.linkedin.com/in/dibrynya-avdyushin-0672a3211/) 
 [<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/ANAN4ZZ)
 
