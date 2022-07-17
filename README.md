@@ -2,11 +2,9 @@
 
 #### I am a beginner programmer.
 
-#### My Skills:
-
 <img align="right" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=avdushin&show_icons=true&title_color=CDA571&icon_color=CDA571&text_color=fff&bg_color=004242" />
 
-
+#### My Skills:
 
 
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img width="30px" src="https://user-images.githubusercontent.com/54774559/126877939-1d716169-4dd8-4f21-a1d4-dccc80f92ec4.png" />  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />    <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> 
