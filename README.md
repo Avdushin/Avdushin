@@ -2,10 +2,12 @@
 
 #### I am a beginner programmer.
 
-
 #### My Skills:
 
 <img align="right" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=avdushin&show_icons=true&title_color=CDA571&icon_color=CDA571&text_color=fff&bg_color=004242" />
+
+
+
 
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img width="30px" src="https://user-images.githubusercontent.com/54774559/126877939-1d716169-4dd8-4f21-a1d4-dccc80f92ec4.png" />  <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />    <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> 
 
@@ -24,6 +26,8 @@
 
 
 My hobby is Linux and everything connected with it.
+
+<img width="100%" height="250px" align="center" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761177454228cf44661a44185d159fa1a30a22544d27&rid=giphy.gif&ct=g" />
 
 ### Communication with me:
 [<img width="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fyoutube-512.png&f=1&nofb=1" />](https://www.youtube.com/channel/UCdixaS1DwzC38u7RuLFbtuA)
