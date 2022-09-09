@@ -1,5 +1,7 @@
 ### Hey! My name is Dobrynya Avdyushin. <br> 
 
+![](https://komarev.com/ghpvc/?username=Avdushin&color=004242)
+
 #### I am a beginner programmer.
 
 <img align="right" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=avdushin&show_icons=true&title_color=CDA571&icon_color=CDA571&text_color=fff&bg_color=004242" />
