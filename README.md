@@ -1,6 +1,6 @@
 ### Hey! My name is Dobrynya Avdyushin. <br> 
 
-![](https://komarev.com/ghpvc/?username=Avdushin&color=004242)
+![](https://www.codewars.com/users/B3aver1/badges/large)
 
 #### I am a beginner programmer.
 
@@ -13,6 +13,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Falecive%2Fflatwoken%2F512%2FApps-Qt-icon.png&f=1&nofb=1" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Falternative.me%2Fmedia%2F256%2Fhtop-icon-yr9dirt1d382h77p-c.png&f=1&nofb=1" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG40.png&f=1&nofb=1" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F20%2FBash_Logo_black_and_white_icon_only.svg%2F672px-Bash_Logo_black_and_white_icon_only.svg.png&f=1&nofb=1" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png?20161018142601" /> 
+
 
 
 #### Operating Systems:
