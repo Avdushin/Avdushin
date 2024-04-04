@@ -20,23 +20,28 @@
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+
+<img width="30px" src="./icons/Figma.png" />
+<img width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Falecive%2Fflatwoken%2F512%2FApps-Qt-icon.png&f=1&nofb=1" />
+<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" />
+<img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Falternative.me%2Fmedia%2F256%2Fhtop-icon-yr9dirt1d382h77p-c.png&f=1&nofb=1" />
+<img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F20%2FBash_Logo_black_and_white_icon_only.svg%2F672px-Bash_Logo_black_and_white_icon_only.svg.png&f=1&nofb=1" />
+
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png?20161018142601" /> 
+<img width="30px" src="./icons/pg.png" /> 
 </div>
-
-
-<img width="30px" src="./icons/Figma.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Falecive%2Fflatwoken%2F512%2FApps-Qt-icon.png&f=1&nofb=1" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Falternative.me%2Fmedia%2F256%2Fhtop-icon-yr9dirt1d382h77p-c.png&f=1&nofb=1" />  <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F20%2FBash_Logo_black_and_white_icon_only.svg%2F672px-Bash_Logo_black_and_white_icon_only.svg.png&f=1&nofb=1" />
-
- <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png?20161018142601" /> 
- <img width="30px" src="./icons/pg.png" /> 
-
-
 
 ### Operating Systems
 
+<div>
 <img width="30px" src="./icons/Linux.png" />
 <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shareicon.net%2Fdata%2F512x512%2F2015%2F09%2F16%2F101922_windows_512x512.png&f=1&nofb=1" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.macaid.com.au%2Fwp-content%2Fuploads%2F2020%2F11%2F600px-Finder_Icon_macOS_Big_Sur.png&f=1&nofb=1" />
+</div>
 
 ### Distros
 
+<div>
 <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FSolus.svg%2F1200px-Solus.svg.png&f=1&nofb=1" />
 <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arcolinux.svg/766px-Arcolinux.svg.png" />
 <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fmanjaro-welcome-icon.png&f=1&nofb=1" />
@@ -45,6 +50,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img width="30px" src="./icons/parrot_s_os.png" />
 <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih0.redbubble.net%2Fimage.208539360.1700%2Fsticker%2C375x360.png&f=1&nofb=1" />
+</div>
 
 
 My hobby is Linux and everything related to it.\
