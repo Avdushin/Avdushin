@@ -14,11 +14,13 @@
 
 #### Advanced
 
+<div>
 <img width="30px" src="./icons/Ferris.png" />
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</div>
 
 
 <img width="30px" src="./icons/Figma.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Falecive%2Fflatwoken%2F512%2FApps-Qt-icon.png&f=1&nofb=1" /> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" /> <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Falternative.me%2Fmedia%2F256%2Fhtop-icon-yr9dirt1d382h77p-c.png&f=1&nofb=1" />  <img width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F20%2FBash_Logo_black_and_white_icon_only.svg%2F672px-Bash_Logo_black_and_white_icon_only.svg.png&f=1&nofb=1" />
