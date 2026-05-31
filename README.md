@@ -31,11 +31,10 @@ Currently building systems for **cross-exchange trading**, **funding-rate arbitr
 ### Infrastructure & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Orchestration-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-Containers-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Product%20Design-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
 
 ---
 
