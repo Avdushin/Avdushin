@@ -61,11 +61,11 @@ My build: [keyboard_layout](https://github.com/Avdushin/keyboard_layout)
 
 ---
 
-### Code Practice
+<!-- ### Code Practice
 
 ![](https://www.codewars.com/users/B3aver1/badges/large)
 
----
+--- -->
 
 ### Contact
 
